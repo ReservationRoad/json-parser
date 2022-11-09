@@ -52,6 +52,9 @@ int main(int argc, char *argv[])
 	printf("Add two sentences to see how git work\n");
 	printf("Add two sentences to see how git work\n");
 
+
+	puts("=================bug1==================");
+
 	return 0;
 }
 
